@@ -3,7 +3,7 @@ package Warmup;
 import java.util.Scanner;
 
 /**
- *
+ * https://www.hackerrank.com/challenges/staircase/problem
  *
  */
 
