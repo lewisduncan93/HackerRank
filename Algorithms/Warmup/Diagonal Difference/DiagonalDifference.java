@@ -13,7 +13,7 @@ import java.util.regex.*;
  *
  */
 
-public class Solution {
+public class DiagonalDifference {
 
     static int diagonalDifference(int[][] arr) {
         int arrSize = arr.length;
